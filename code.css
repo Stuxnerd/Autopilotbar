@@ -1,0 +1,35 @@
+#autopilottable {
+    border-collapse: collapse;
+    width: auto;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 2px;
+    margin: 0;
+    //background-color: rgb(0, 0, 0);
+    }
+    
+    #autopilottable td {
+    width: 100px;
+    text-align: center;
+    padding: 2px;
+    color: #fff;
+    }
+    
+    #autopilottable tr:first-child td {
+    font-size: 14px;
+    }
+    
+    #autopilottable tr:last-child td {
+    font-size: 18px;
+    }
+    
+    #autopilottable td:nth-child(13),
+    #autopilottable td:nth-child(14),
+    #autopilottable td:nth-child(15) {
+     color: rgb(135, 206, 250); 
+    }
+    
+    #autopilottable td:nth-child(16) {
+      color: rgb(243, 255, 139);
+    }
