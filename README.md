@@ -15,9 +15,13 @@ Special thanks to "plerzelwupp". I used your code and details from p42-util-flow
 
 #Usage
 This widget shows some information about the autopilot. It focuses on the information I need for my flights, so it may be less useful especially for sophisticated flights and experienced pilots. It may also not work with complex airplanes (e.g. Airbus and Boing with multiple AP slots). I only flew and tested it with the C-160 Transall by Azurpoly.
-It makes sense for me as I use a Behringer X-Touch Mini with SPAD.neXt to adapt the autopilot. The values are visible in the cockpit (I rarely use) and in FlowPro (but to large).
+It makes sense for me as I use a Behringer X-Touch Mini with SPAD.neXt (https://www.spadnext.com/) to adapt the autopilot. The values are visible in the cockpit (I rarely use) and in FlowPro (but to large).
 I intend to adapt my AP in group flights a bit better.
 
 #Code:
 The JS, CSS and HTML files can be found in GitHub: https://github.com/Stuxnerd/Autopilotbar
 
+Download from FlightSim.to:  https://flightsim.to/file/82318/flow-pro-widget-autopilotbar
+
+Donate:
+If you like the widget you may donate a tea via PayPal (https://www.paypal.com/paypalme/SchulzeS) or Bitcoin (bc1q0xr6mwjlc2ejeh3yf4nauj9spgtz2t6g8tfapn).
